@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="radio_button_1">An image</string>
+    <string name="radio_button_2">A clickable button</string>
+    <string name="radio_button_3">Text on the screen</string>
+    <string name="radio_button_4">All of the above</string>
+    <string name="radio_button_5">None of the above</string>
+    <string name="check_box_1">text</string>
+    <string name="check_box_2">textUse</string>
+    <string name="check_box_3">textSize</string>
+    <string name="check_box_4">textColor</string>
+    <string name="check_box_5">textContent</string>
+    <string name="question_str_1">Which of the following elements is considered a View in an Android app?</string>
+    <string name="question_str_2">Which of the following are Attributes in Android?</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+</resources>
